@@ -1,0 +1,9 @@
+{
+  "bpm": 84,
+  "groups": {
+    "drum": ["drum1.mp3", "drum2.mp3", "drum3.mp3", "drum4.mp3"],
+    "chitS": ["chit1S.mp3", "chit2S.mp3", "chit3S.mp3", "chit4S.mp3"],
+    "chitD": ["chit1D.mp3", "chit2D.mp3", "chit3D.mp3", "chit4D.mp3"],
+    "varie": ["varie1.mp3", "varie2.mp3", "varie3.mp3", "varie4.mp3"]
+  }
+}
